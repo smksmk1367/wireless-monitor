@@ -77,3 +77,4 @@ Communityهای SNMP:
 
 این فیلدها در تب Wireless جداگانه نگه‌داری می‌شوند. در AP که فقط `registered-clients` و `overall-tx-ccq` برمی‌گرداند، مقدار RX/TX Peer اختراع نمی‌شود و فقط همان داده‌ی واقعی نمایش داده می‌شود.
 # scan
+# wireless-monitor
